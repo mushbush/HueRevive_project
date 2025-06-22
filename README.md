@@ -1,5 +1,7 @@
 # HueRevive_project
 
+> model url: https://colab.research.google.com/drive/188jh_xwRQrSkT5VYd-9_xnS_We4GHjnE
+
 
 ## 📌 프로젝트 제목
 
